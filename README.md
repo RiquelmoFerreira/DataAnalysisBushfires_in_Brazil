@@ -1,4 +1,4 @@
-# Bitcoin Analysis Project
+# Bushfires in Brazil Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBushfires_in_Brazil/blob/main/License)
 
 # About the Project
